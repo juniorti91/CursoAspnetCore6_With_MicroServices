@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8z6YkElyQFPCYDGSE/8yLPTXxghCtatmF7a77A61PvI=",
+  "Hash": "pDwRv0IQP8KSj1A0vuye5kxh5LobCwjIlm4+pm6A3LU=",
   "Source": "GeekShopping.Web",
   "BasePath": "_content/GeekShopping.Web",
   "Mode": "Default",
@@ -83,6 +83,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\favicon.png"
+    },
+    {
+      "Identity": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "SourceId": "GeekShopping.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\",
+      "BasePath": "_content/GeekShopping.Web",
+      "RelativePath": "images/geek_shopping.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\geek_shopping.png"
     },
     {
       "Identity": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\site.js",
