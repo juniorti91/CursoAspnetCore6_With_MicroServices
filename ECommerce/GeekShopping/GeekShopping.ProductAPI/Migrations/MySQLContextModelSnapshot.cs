@@ -84,6 +84,42 @@ namespace GeekShopping.ProductAPI.Migrations
                             ImageURL = "data:image/jpeg;base64,/9j/",
                             Name = "Camiseta Goku Fases",
                             Price = 69.9m
+                        },
+                        new
+                        {
+                            Id = 5L,
+                            CategoryName = "T-shirt",
+                            Description = "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.",
+                            ImageURL = "data:image/jpeg;base64,/9j/",
+                            Name = "Camiseta Windows Server",
+                            Price = 69.9m
+                        },
+                        new
+                        {
+                            Id = 6L,
+                            CategoryName = "T-shirt",
+                            Description = "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.",
+                            ImageURL = "data:image/jpeg;base64,/9j/",
+                            Name = "Camiseta Fedora Fases",
+                            Price = 69.9m
+                        },
+                        new
+                        {
+                            Id = 7L,
+                            CategoryName = "T-shirt",
+                            Description = "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.",
+                            ImageURL = "data:image/jpeg;base64,/9j/",
+                            Name = "Camiseta Solaris Server",
+                            Price = 69.9m
+                        },
+                        new
+                        {
+                            Id = 8L,
+                            CategoryName = "T-shirt",
+                            Description = "Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos.",
+                            ImageURL = "data:image/jpeg;base64,/9j/",
+                            Name = "Camiseta Freeza Fases",
+                            Price = 69.9m
                         });
                 });
 #pragma warning restore 612, 618

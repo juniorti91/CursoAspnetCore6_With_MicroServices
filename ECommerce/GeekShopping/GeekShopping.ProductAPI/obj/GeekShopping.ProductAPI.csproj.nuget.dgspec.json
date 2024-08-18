@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "C:\\Users\\JuniorAdm\\Desktop\\JRProjetos\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "C:\\Users\\JuniorAdm\\Desktop\\JRProjetos\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\JuniorAdm\\Desktop\\JRProjetos\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
-        "packagesPath": "C:\\Users\\adroaldo\\.nuget\\packages\\",
-        "outputPath": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+        "projectPath": "C:\\Users\\JuniorAdm\\Desktop\\JRProjetos\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "packagesPath": "C:\\Users\\JuniorAdm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JuniorAdm\\Desktop\\JRProjetos\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\adroaldo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\JuniorAdm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -40,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -100,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }
