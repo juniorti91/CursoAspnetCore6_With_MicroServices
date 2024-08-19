@@ -59,3 +59,14 @@ C:\Users\JuniorAdm\Desktop\JRProjetos\CursoAspnetCore6_With_MicroServices\EComme
 C:\Users\JuniorAdm\Desktop\JRProjetos\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.pdb
 C:\Users\JuniorAdm\Desktop\JRProjetos\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.genruntimeconfig.cache
 C:\Users\JuniorAdm\Desktop\JRProjetos\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\ref\GeekShopping.Web.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.csproj.AssemblyReference.cache
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.Web\obj\Debug\net6.0\GeekShopping.Web.csproj.CopyComplete
