@@ -49,7 +49,6 @@ namespace GeekShopping.IdentityServer.Services
                 }
             }
             context.IssuedClaims = claims;
-            throw new NotImplementedException();
         }
 
         public async Task IsActiveAsync(IsActiveContext context)
