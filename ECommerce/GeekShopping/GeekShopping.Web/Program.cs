@@ -28,7 +28,7 @@ builder.Services.AddAuthentication(options =>
             options.ClaimActions.MapJsonKey("role", "role", "role");
             options.ClaimActions.MapJsonKey("sub", "sub", "sub");
             options.TokenValidationParameters.NameClaimType = "name";
-            options.TokenValidationParameters.RoleClaimType = "name";
+            options.TokenValidationParameters.RoleClaimType = "role";
             options.Scope.Add("geek_shopping");
             options.SaveTokens = true;
         }

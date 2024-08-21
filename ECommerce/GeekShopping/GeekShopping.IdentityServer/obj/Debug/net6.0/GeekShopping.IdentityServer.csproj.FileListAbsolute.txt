@@ -124,5 +124,5 @@ C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekSho
 C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.pdb
 C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.genruntimeconfig.cache
 C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
-C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.CopyComplete
 C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-051C50F27ED6BC0A8C4F6402025626A4.json
+C:\JPProjects\CursoAspnetCore6_With_MicroServices\ECommerce\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\GeekShopping.IdentityServer.csproj.CopyComplete
