@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\images\\geek_shopping.png"
     },
     {
+      "Id": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\datatable-pt-br.js",
+      "PackagePath": "staticwebassets\\js\\datatable-pt-br.js"
+    },
+    {
       "Id": "C:\\JPProjects\\CursoAspnetCore6_With_MicroServices\\ECommerce\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
